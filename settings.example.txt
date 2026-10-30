@@ -1,0 +1,4 @@
+BOT_TOKEN=сюда_токен_от_BotFather
+ADMIN_ID=сюда_твой_telegram_id
+FEEDBACK_USERNAME=SqLexi4
+DONATE_URL=https://www.donationalerts.com/r/lexi4_

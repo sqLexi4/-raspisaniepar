@@ -1,0 +1,4 @@
+settings.txt
+venv/
+__pycache__/
+data/
